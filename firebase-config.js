@@ -1,3 +1,5 @@
+.gitignore
+
 import { firebaseConfig } from './firebase-config.js';
 
 // firebase-config.js
@@ -9,6 +11,3 @@ export const firebaseConfig = {
   messagingSenderId: "318739755710",
   appId: "1:318739755710:web:10d6a9f9de97c94f8224ef"
 };
-
-
-.gitignore
