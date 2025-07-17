@@ -1,5 +1,3 @@
-.gitignore
-
 import { firebaseConfig } from './firebase-config.js';
 
 // firebase-config.js
